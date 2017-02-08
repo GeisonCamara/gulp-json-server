@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "valor": 1.25,
+      "status": "A",
+      "estoque": 20
+    },
+    {
+      "id": 2,
+      "nome": "Bergamota",
+      "valor": 2.25,
+      "status": "A",
+      "estoque": 40
+    },
+    {
+      "id": 3,
+      "nome": "Laranja",
+      "valor": 3.25,
+      "status": "A",
+      "estoque": 50
+    },
+    {
+      "nome": "Abacaxi",
+      "valor": 3.75,
+      "status": "I",
+      "estoque": 15,
+      "id": 4
+    },
+    {
+      "nome": "Maçã",
+      "valor": 5.5,
+      "status": "A",
+      "estoque": 10,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nome": "Melância",
+      "valor": 2,
+      "status": "A",
+      "estoque": 100
+    },
+    {
+      "id": 7,
+      "nome": "Limão",
+      "valor": 4,
+      "status": "A",
+      "estoque": 25
+    },
+    {
+      "nome": "Abacate",
+      "valor": 3.5,
+      "status": "A",
+      "estoque": 15,
+      "id": 8
+    }
+  ]
+}
