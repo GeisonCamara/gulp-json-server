@@ -1,0 +1,30 @@
+{
+  "name": "gulp-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeisonCamara/gulp-json-server.git"
+  },
+  "keywords": [
+    "gulp",
+    "json",
+    "server"
+  ],
+  "author": "Geison Camara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeisonCamara/gulp-json-server/issues"
+  },
+  "homepage": "https://github.com/GeisonCamara/gulp-json-server#readme",
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  },
+  "devDependencies": {
+    "gulp-json-srv": "^1.0.1"
+  }
+}
