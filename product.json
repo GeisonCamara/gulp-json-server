@@ -1,4 +1,10 @@
 {
+  "user": [
+    {
+      "id": 1,
+      "nome": "Geison"
+    }
+  ],
   "product": [
     {
       "id": 1,

@@ -3,11 +3,13 @@ var jsonServer = require('gulp-json-srv');
 
 var server = jsonServer.create();
 
-gulp.task('srv', function(){
+gulp.task('db', function(){
 	return gulp.src("product.json")
 		.pipe(server.pipe());
 });
 
-gulp.task('default', function () {
-	gulp.start('srv');
-});
+gulp.task("watch", function(){
+	gulp.watch(["product.json"], ['db']);
+})
+
+gulp.task('default', ['db', 'watch']);

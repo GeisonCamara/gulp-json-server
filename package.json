@@ -25,6 +25,7 @@
     "gulp-install": "^0.6.0"
   },
   "devDependencies": {
-    "gulp-json-srv": "^1.0.1"
+    "gulp-json-srv": "^1.0.1",
+    "gulp-nodemon": "^2.2.1"
   }
 }
