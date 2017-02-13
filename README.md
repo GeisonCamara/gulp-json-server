@@ -10,7 +10,7 @@ npm install --global gulp-cli
 ```sh
 npm install
 ```
-#### Rode o comando **gulp no console para criar o servidor:
+#### Rode o comando **gulp** no console para criar o servidor:
 
 ```sh
 gulp
